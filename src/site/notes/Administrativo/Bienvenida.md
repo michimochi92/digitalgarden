@@ -6,7 +6,7 @@
 
 **¡Saludos! Y permítanme, yo, el profesor [[Michimus Mochintus V\|Michimus Mochintus V]], darles la más cordial bienvenida a mi modesta y pequeña biblioteca de notas dispersas: la Enciclopedia Athemica.**
 
-Debo admitir que mi desbordada ambición de publicar algún día esta enciclopedia quizá fue un poco exagerada. [[Athemos\|Athemos]] es un lugar inmenso, mucho más grande de lo que imaginaba en mi juventud.
+Debo admitir que mi desbordada ambición de publicar algún día esta enciclopedia quizá fue un poco exagerada. [[Geografía y Politica/Athemos\|Athemos]] es un lugar inmenso, mucho más grande de lo que imaginaba en mi juventud.
 
 Tal vez algún día, mi tataranieto reúna este montón de notas sueltas, capítulos dispersos y entradas de diario escritas al aventón, y publique el libro en una serie de volúmenes, a diez monedas  de oro cada uno. Pero por ahora, este revoltijo de biblioteca es todo lo que tengo para ofrecerles.
 
