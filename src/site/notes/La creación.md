@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-23T22:21:00.000-06:00"}
+{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-23T22:22:50.000-06:00"}
 ---
 
 # **La Crónica de las Dos Lluvias**
@@ -27,7 +27,7 @@ Así se pobló Athemos, y las razas caminaron bajo un mismo cielo.
 
 Pero el cosmos es caprichoso. Pasados los siglos, una **segunda lluvia** de asteroides descendió, más oscura, más letal. No traía vida, sino ruina: minerales corrompidos que consumían todo lo que tocaban, capaces de extinguir los frutos de la primera creación.
 
-En ese momento surgió **El Emperador**.  
+En ese momento surgió **El Emperador** Thrak-Morûl (el Coloso Eterno).   
 Nadie sabe de dónde vino: algunos dicen que fue el primero de todos los nacidos de los astros, otros que era un ser que siempre habitó en el corazón de Athemos.
 
 Lo cierto es que extendió sus brazos sobre el mundo y, con su poder, **tejió la atmósfera** que aún hoy protege al planeta. La Segunda Lluvia ardió en los cielos y sus cenizas se perdieron en los abismos del vacío.
