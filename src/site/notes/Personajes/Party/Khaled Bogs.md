@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personajes/party/khaled-bogs/","created":"2025-08-24T18:28:32.910-06:00","updated":"2025-08-24T18:41:08.000-06:00"}
+{"dg-publish":true,"permalink":"/personajes/party/khaled-bogs/","created":"2025-08-24T18:28:32.910-06:00","updated":"2025-08-24T19:15:38.000-06:00"}
 ---
 
+![Khaled.png|299x449](/img/user/z_Assets/Khaled.png)
 ## Origen
 
 [[Personajes/Party/Khaled Bogs\|Khaled Bogs]]es el hijo menor de la rama principal de la familia real de **[[Geografía y Politica/Avacara\|Avacara]]**, destinado por derecho de sangre a convertirse algún día en **Guardián de la Gran Semilla**, figura central de la fe druídica de [[Geografía y Politica/Avacara\|Avacara]]. Desde temprana edad fue instruido en los ritos sagrados de la savia, los cantos que despiertan a las raíces y el lenguaje ancestral de las hojas.
