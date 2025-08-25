@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-23T22:50:40.000-06:00"}
+{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-24T22:42:32.000-06:00"}
 ---
 
 # **La Crónica de las Dos Lluvias**
@@ -14,7 +14,9 @@ De la [[labradorita\|labradorita]] nacieron los [[Elfos Astrales\|elfos astrales
 Del cuarzo surgieron los [[Kumuldûn\|Kumuldûn]], de piel clara y barbas blancas, con venas y ojos dorados.  
 Del jade celeste nacieron los [[Ryujin\|Ryujin]], cuyas escamas brillan en tonos verdes, turquesa y azul; sus ojos destellan blanco o dorado, y sus venas laten en un verde profundo.  
 De los [[zafiros\|zafiros]] y las [[esmeraldas\|esmeraldas]] emergieron los [[humanos\|humanos]], adaptables y cambiantes, capaces de reflejar el mundo en sí mismos.  
-Del oro estelar surgieron los [[Orodrim\|Orodrim]], de armaduras doradas geométricamente moldeadas para proteger un núcleo cristalino de brillo rojizo.  
+Del oro estelar surgieron los [[Orodrim\|Orodrim]], de armaduras doradas geométricamente moldeadas para proteger un núcleo cristalino de brillo rojizo.
+De la [[Azurita férrea\|Azurita férrea]] nacieron los goblins, vistos como el lado podrido de la naturaleza, su piel es gris verdoza o azul, sus venas negras.
+De la [[fluorita\|fluorita]], nacieron los gnomos, de vernas moradas verdes y azules.
 De la [[selenita\|selenita]] —material casi imposible de tallar y obtenido únicamente de los cuernos de los tieflings— aparecieron los [[Lightlos\|Lightlos]].
 
 Y de los minerales más extraños, aquellos que ninguna mano mortal había contemplado, surgieron los tieflings: cada uno con un cuerno distinto, tallado del mineral que lo engendró. No había dos iguales, pues cada fragmento celeste encerraba un alma única.
@@ -31,3 +33,4 @@ Entonces surgió **el Emperador Thrak-Morûl, el Coloso Eterno**.
 Nadie sabe de dónde vino: algunos dicen que fue el primero de todos los nacidos de los astros; otros, que siempre habitó en el corazón de Athemos.
 
 Lo cierto es que extendió sus brazos sobre el mundo y, con su poder, **tejió la atmósfera** que aún hoy protege al planeta. La Segunda Lluvia ardió en los cielos y sus cenizas se perdieron en los abismos del vacío.
+
