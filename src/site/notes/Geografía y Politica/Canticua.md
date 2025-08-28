@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geografia-y-politica/canticua/","created":"2025-08-27T22:09:11.010-06:00","updated":"2025-08-27T22:35:36.000-06:00"}
+{"dg-publish":true,"permalink":"/geografia-y-politica/canticua/","created":"2025-08-27T22:09:11.010-06:00","updated":"2025-08-27T23:03:10.000-06:00"}
 ---
 
 
@@ -13,7 +13,7 @@ En Canticua, la música no es solo un arte: es **vida, idioma y poder**. El cruj
 
 ## 🎶 Cultura y Magia
 
-La cultura canticuana es un tapiz tejido de **tradiciones bardescas** y **magias auditivas**.
+La cultura cantuarii es un tapiz tejido de **tradiciones bardescas** y **magias auditivas**.
 
 - Los magos son conocidos como **Cantomantes**: canalizan su poder mediante tono y timbre, y los más grandes de ellos son capaces de transformar el **maná puro en resonancia** con su voz.
     
@@ -64,15 +64,15 @@ La arquitectura no solo protege: también participa en la sinfonía de la nació
 
 El corazón de Canticua es la creencia de que la **belleza y la armonía** son fuerzas capaces de resistir incluso la oscuridad más absoluta: desde la tristeza personal hasta la guerra o el fin del mundo.
 
-La música, creen los canticuanos, es un **arma contra el vacío**.
+La música, creen los cantuarii, es un **arma contra el vacío**.
 
 ---
 
 ## 🎤 Legado y Honores
 
-Desde prestigiosas academias hasta escuelas improvisadas en plazas y aldeas, todos los **Cantuarii** (gentilicio de Canticua) buscan dejar su huella en el mundo mediante la canción.
+Desde prestigiosas academias hasta escuelas improvisadas en plazas y aldeas, todos los **Cantuarii** buscan dejar su huella en el mundo mediante la canción.
 
-El mayor honor que puede recibir un bardo es que su arte trascienda las fronteras de Athemos.  
-Aquel que logre fama eterna recibirá de la reina, la **Cantora Corona**, un regalo inmortal:
+El mayor honor que puede alcanzar un bardo es que su arte trascienda las fronteras de Athemos.  
+Aquel que conquiste la fama en los dos continentes o supere el certamen legendario conocido como **El Concierto del Eclipse**, recibirá de la reina, la **Cantora Corona**, un obsequio inmortal:
 
-> **su propia canción, entonada por la voz real.**
+> **una canción eterna, entonada por la voz real.**
