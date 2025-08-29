@@ -10,7 +10,7 @@ Con una población que supera los **200 000 habitantes**, Lumiere se ha consolid
 
 ## Misterio y Leyendas
 
-La ciudad se encuentra envuelta en un halo de misterio, alimentado por las innumerables leyendas que recorren sus calles. Entre todas, la más célebre es la **leyenda del [[Noireon\|Noireon]]**, una criatura ancestral capaz de habitar las sombras de quienes son víctimas de su acecho.
+La ciudad se encuentra envuelta en un halo de misterio, alimentado por las innumerables leyendas que recorren sus calles. Entre todas, la más célebre es la **leyenda del [[Historia y Mitos/Noireon\|Noireon]]**, una criatura ancestral capaz de habitar las sombras de quienes son víctimas de su acecho.
 
 El temor hacia el Noireon es tan profundo que Lumiere está repleta de estatuas, murales y pinturas en su honor, erigidas tanto como advertencia como forma de veneración. Su fama ha moldeado la vida cotidiana: gran parte de las actividades laborales y comerciales se realizan de noche, en un intento de mantenerse bajo la supuesta protección de la luna.
 
