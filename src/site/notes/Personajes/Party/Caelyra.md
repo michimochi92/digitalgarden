@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personajes/party/caelyra/","created":"2025-08-23T18:41:25.850-06:00","updated":"2025-08-31T23:35:56.000-06:00"}
+{"dg-publish":true,"permalink":"/personajes/party/caelyra/","created":"2025-08-23T18:41:25.850-06:00","updated":"2025-09-01T16:36:26.000-06:00"}
 ---
 
 ![Caelryra.png](/img/user/z_Assets/Caelryra.png)
@@ -23,3 +23,5 @@ Desde temprana edad, [[Personajes/Party/Caelyra\|Caelyra]] aprendió a leer los 
 > **Evitar la Tercera Lluvia.**
 
 ## Conexiones ##
+
+[[Kaelthir\|Kaelthir]] - hermano difunto
