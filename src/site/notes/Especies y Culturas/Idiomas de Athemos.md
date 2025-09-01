@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/especies-y-culturas/idiomas-de-athemos/","created":"2025-08-25T14:11:39.180-06:00","updated":"2025-08-25T21:34:06.000-06:00"}
+{"dg-publish":true,"permalink":"/especies-y-culturas/idiomas-de-athemos/","created":"2025-08-25T14:11:39.180-06:00","updated":"2025-08-31T23:53:42.000-06:00"}
 ---
 
 ## Lenguas Raciales ##
@@ -89,4 +89,4 @@ Es el idioma comun en Valthera, hablado por todas las naciones para facilitar el
 	Ⳑᚢ⋏ᚨꝚ⟒ Ꝇᛟ⋏ ᚷÿ⟟ᚨ
 	"La luna me guía"
 
-#### Lenguas por agregar, : Melodin, idioma de canticua, nacion de bardos. Idioma nahuatl/inca que hablan la plebe de [[Geografía y Politica/Avacara\|Avacara]] ####
+#### Lenguas por agregar, : Melodin, idioma de canticua, nacion de bardos. Idioma nahuatl/inca que hablan la plebe de, Schaluître[[Geografía y Politica/Avacara\|Avacara]] Linyelith (elfico)T####

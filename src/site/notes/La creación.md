@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-25T17:25:12.000-06:00"}
+{"dg-publish":true,"permalink":"/la-creacion/","created":"2025-08-23T19:06:26.290-06:00","updated":"2025-08-31T23:35:56.000-06:00"}
 ---
 
 # **La Crónica de las Dos Lluvias**
@@ -10,7 +10,7 @@ En el vacío silencioso, cuando Athemos aún era joven y desnudo, una lluvia de 
 
 De la [[obsidiana\|obsidiana]] nacieron los orcos, fuertes y ardientes como la piedra volcánica, de piel gris y venas incandescentes como magma.  
 De la [[malaquita astral\|malaquita astral]] surgieron los [[Ashanak\|Ashanak]], con piel oscura y venas verdes que laten como savia mineral. Sus cuernos, largos y curvados, parecen troncos petrificados con vetas verdes y doradas, como ramas de un árbol sagrado vuelto piedra.  
-De la [[labradorita\|labradorita]] nacieron los [[Especies y Culturas/Elfos Astrales\|Elfos Astrales]], de piel negra con reflejos azulados o violáceos.  
+De la [[labradorita\|labradorita]] nacieron los [[Especies y Culturas/Elyndar\|Elyndar]], de piel negra con reflejos azulados o violáceos.  
 Del cuarzo surgieron los [[Especies y Culturas/Kumuldûn\|Kumuldûn]], de piel clara y barbas blancas, con venas y ojos dorados.  
 Del jade celeste nacieron los [[Especies y Culturas/Ryujin\|Ryujin]], cuyas escamas brillan en tonos verdes, turquesa y azul; sus ojos destellan blanco o dorado, y sus venas laten en un verde profundo.  
 De los [[zafiros\|zafiros]] y las [[esmeraldas\|esmeraldas]] emergieron los [[humanos\|humanos]], adaptables y cambiantes, capaces de reflejar el mundo en sí mismos.  
