@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personajes/party/kil-grock/","created":"2025-08-28T20:59:11.790-06:00","updated":"2025-08-28T21:28:44.000-06:00"}
+{"dg-publish":true,"permalink":"/personajes/party/kil-grock/","created":"2025-08-28T20:59:11.790-06:00","updated":"2025-09-01T16:57:54.000-06:00"}
 ---
 
 
@@ -20,6 +20,7 @@ En su mano derecha sostiene una espada robusta, diseñada más para aplastar que
     
 - Detesta a quienes ayudan a otros sin esperar nada a cambio.
 
+## Trasfondo ##
 [[Kil’grock\|Kil’grock]] nació en el pequeño poblado orco de [[Kragthûl\|Kragthûl]], una aldea humilde en las fronteras del naciente Imperio de [[Geografía y Politica/Morûldar\|Morûldar]]. Sus padres no fueron grandes guerreros, pero sí lo bastante fuertes y resistentes para trabajar las tierras duras de las afueras.
 
 Cuando [[Kil’grock\|Kil’grock]] era apenas un niño, el Imperio decidió asimilar[[ Kragthû\| Kragthû]]l. La resistencia local fue aplastada y los supervivientes absorbidos en la ideología imperial. Sus padres aceptaron su destino sin combatir, y esa sumisión dejó en [[Kil’grock\|Kil’grock]] una herida profunda: desprecio hacia la falta de fortaleza no solo de su familia, sino de todo su pueblo.

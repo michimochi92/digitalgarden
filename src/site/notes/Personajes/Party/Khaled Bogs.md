@@ -1,24 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/personajes/party/khaled-bogs/","created":"2025-08-24T18:28:32.910-06:00","updated":"2025-08-24T19:15:38.000-06:00"}
+{"dg-publish":true,"permalink":"/personajes/party/khaled-bogs/","created":"2025-08-24T18:28:32.910-06:00","updated":"2025-09-01T16:58:18.000-06:00"}
 ---
 
 ![Khaled.png|299x449](/img/user/z_Assets/Khaled.png)
-## Origen
+## Apariencia ##
+Khaled es un Ashurak con una figura imponente, de porte sereno y místico. Su cuerpo, cubierto de un pelaje oscuro y firme, refleja tanto la fuerza contenida como la calma de un guardián ancestral. De su frente emergen grandes cuernos retorcidos, adornados con hojas y brotes verdes que parecen brotar de manera natural, parecen troncos petrificados con vetas verdes y doradas, como si fuesen ramas de un árbol sagrado convertido en piedra. Su rostro, de facciones bovinas y mirada solemne, transmite respeto y sabiduría. Un rubí incrustado en la frente, brillante como un punto de luz, refuerza su aire de guía y protector. Sus ojos ámbar, intensos y penetrantes, revelan tanto juicio como compasión, reflejando el equilibrio que encarna entre la bestia y el druida. Viste un manto tradicional blanco, ricamente bordado en dorado y verde con motivos que evocan raíces entrelazadas. La túnica, pesada y majestuosa, descansa sobre sus hombros como símbolo de su linaje y responsabilidad. Collares y piedras preciosas, de tonos esmeralda, cuelgan de su cuello, vibrando con la energía misma de la tierra. Khaled se presenta no como un guerrero, sino como un puente viviente entre los reinos animal y vegetal. Su sola presencia inspira reverencia, como si en él coexistiera la fuerza de la naturaleza y la sabiduría de generaciones pasadas. En fin UN GUARDIAN.
+## Personalidad ##
+• Ama comer, la mayor ventaja de la naturaleza es que nunca tendrás hambre. • Teme ser olvidado, un legado tan grande es un peso muy grande también. • Disfruta, Ver como resbalan objetos sobre alguna superficie, no importa cuál sea. A veces uno solo es muy simple. • Odia a los militares, sobre todo a los que intentan forzar a olvidar viejas costumbres o imponer las propias.
+## Trasfondo ##
 
-[[Personajes/Party/Khaled Bogs\|Khaled Bogs]]es el hijo menor de la rama principal de la familia real de **[[Geografía y Politica/Avacara\|Avacara]]**, destinado por derecho de sangre a convertirse algún día en **Guardián de la Gran Semilla**, figura central de la fe druídica de [[Geografía y Politica/Avacara\|Avacara]]. Desde temprana edad fue instruido en los ritos sagrados de la savia, los cantos que despiertan a las raíces y el lenguaje ancestral de las hojas.
+Khaled Bogs es el hijo menor de la rama principal de la familia real de Avacara, destinado por derecho de sangre a convertirse algún día en Guardián de la Gran Semilla. Desde niño, sus maestros le enseñaron los ritos sagrados de la savia, los cantos que despiertan a las raíces y el lenguaje antiguo de las hojas. Pero Khaled nunca sintió que la voz de las plantas respondiera con la misma claridad con la que lo hacía el llamado de los animales. Mientras sus hermanos y primos podían escuchar el susurro de la savia en cada brizna de hierba, Khaled encontraba calma y conexión únicamente en la mirada de las bestias y en el canto de las aves. Para muchos en la corte druídica, aquello era una señal de que su vínculo con la Gran Semilla estaba incompleto. Preocupado por el futuro de su linaje, y deseando que Khaled cumpliera su destino, el consejo de ancianos decidió enviarlo lejos de las raíces protectoras de Avacara. Sin embargo, su hermano mayor decidió sacrificarse y tomar aquel destino, para que Khaled pudiera llevar una vida más tranquila. Khaled siempre mostró gran habilidad diplomática, una cualidad necesaria para un Guardián, pues debía ser el puente entre Avacara y el mundo. No obstante, cuando se trata de comida, todo puede salir mal. Durante su primer parlamento comercial casi perdió la vida al descubrir que las frutas podían ser más peligrosas de lo que cualquiera imaginaría. Diez años más tarde, tras la partida de su hermano para recorrer bosques, selvas y desiertos lejanos en busca de nuevas formas de vida vegetal fuera de la Gran Semilla, nadie conoce su paradero. Ahora Khaled retoma su misión: salir al mundo en busca de su hermano perdido y, al mismo tiempo, reencontrar su propia conexión con las plantas.
 
-Sin embargo, a diferencia de sus hermanos y primos, Khaled nunca sintió que la voz de las plantas respondiera a su llamado con claridad. En cambio, hallaba calma y conexión en la mirada de las bestias y en el canto de las aves, lo que muchos en la corte druídica interpretaron como un vínculo incompleto con la Gran Semilla.
-
-## La misión de Samir
-
-Preocupado por el futuro del linaje, el consejo de ancianos decidió enviar a **Samir Bogs**, hermano mayor de Khaled, más allá de las raíces protectoras de Aguacatón. Su misión era recorrer el mundo, aprender de los bosques, selvas y desiertos lejanos, y descubrir qué formas de vida vegetal latían fuera de la Gran Semilla.  
-La esperanza era que Samir adquiriera el conocimiento necesario para ayudar a su hermano menor a reconectar con las plantas.
-
-Sin embargo, de aquella expedición han pasado ya **diez años** sin noticias de Samir. Su destino sigue siendo un misterio.
-
-## El viaje de Khaled
-
-Ahora adulto, Khaled ha decidido retomar la senda de su hermano: aventurarse más allá de las fronteras conocidas en busca de respuestas, de su hermano perdido, y de un lazo más profundo con la vida vegetal.
-
-Aun así, Khaled no concibe este viaje únicamente como un deber. En su corazón late una convicción distinta: que la verdadera fortaleza de un Guardián no reside en dominar un único aspecto de la naturaleza, sino en **tejer un puente entre el reino de las plantas y el de los animales**.  
-Con esta visión, Khaled se propone unificar lo que muchos ven como esferas separadas de la creación, para demostrar que todas las criaturas, grandes o pequeñas, brotan de una misma semilla primordial.
+ ## Conexiones ##
+  
+ Samir Bogs → Hermano Ummara (عمارا) → Madre Darhuun (دارحون) → Padre Ghural (غورال) → Maestro espiritual Ḥaruun (حارون) → Maestro de Shuurmal Naamah (نعمة) → Maestro de hechizos
