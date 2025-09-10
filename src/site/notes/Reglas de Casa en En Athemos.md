@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-09T22:18:40.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T11:00:54.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -87,13 +87,13 @@ De otro modo, exactamente **un personaje debe encargarse de la navegación**, re
     
 - **Fallo Crítico:** Logras la **mitad del progreso en la dirección equivocada**, o **ningún progreso** si cuentas con un mapa.
 
-
-|**Ritmo**|**Por Guardia**|**Por Día**|**Efectos**|
-|---|---|---|---|
-|**Exploración**|4 millas|12 millas|+2 a Navegación, no es posible usar Sigilo, el doble de probabilidad de encuentros|
-|**Lento**|6 millas|18 millas|+2 a Navegación, 50% de probabilidad de ignorar encuentros, mayor distancia en encuentros|
-|**Medio**|8 millas|24 millas|No se puede usar Sigilo, distancia media en encuentros|
-|**Rápido**|10 millas|30 millas|–2 a Pruebas de Percepción y Supervivencia, encuentros más cercanos|
+##### Tabla 1 - Ritmo de Exploracion ######
+| **Ritmo**       | **Por Guardia** | **Por Día** | **Efectos**                                                                               |
+| --------------- | --------------- | ----------- | ----------------------------------------------------------------------------------------- |
+| **Exploración** | 4 millas        | 12 millas   | +2 a Navegación, no es posible usar Sigilo, el doble de probabilidad de encuentros        |
+| **Lento**       | 6 millas        | 18 millas   | +2 a Navegación, 50% de probabilidad de ignorar encuentros, mayor distancia en encuentros |
+| **Medio**       | 8 millas        | 24 millas   | No se puede usar Sigilo, distancia media en encuentros                                    |
+| **Rápido**      | 10 millas       | 30 millas   | –2 a Pruebas de Percepción y Supervivencia, encuentros más cercanos                       |                |                 |             |                                                                                           |
 ### Logistica de Viaje ### 
 #### Monturas y Vehiculos ####
 Si todos los personajes están **montados** y viajando por un terreno con un **modificador ×1**, incrementan el número de **millas recorridas por cada guardia** en **+2** (8 en ritmo lento, 10 en ritmo medio, 12 en ritmo rápido).
@@ -104,3 +104,36 @@ Puedes **controlar un animal** o **manejar un vehículo** incluso mientras esté
 
 #### Viajar Mientras Estás Sobrecargado ####
 Si tú o tus **monturas** están **Sobrecargados**, deben viajar a un **ritmo lento**, pero cuentan como si estuvieran viajando a un **ritmo medio** (no pueden usar **Sigilo** y no obtienen los beneficios del **ritmo lento**).
+
+#### Terreno ####
+Viajar en **terrenos difíciles** probablemente **ralentice el viaje** de tu grupo.
+
+- Una **carretera** es un camino empedrado, bien construido y mantenido.
+    
+- Un **camino** es más bien de **terracería**.
+    
+- Un **sendero** es un trayecto **irregular**, no adecuado para la mayoría de los vehículos.
+    
+- Un **camino sin rastro** carece por completo de cualquier tipo de sendero.
+
+##### Tabla 2 - Modificadores de Terreno ######
+| Terreno         | Carretera | Camino/sendero | Sin Rastro |
+| --------------- | --------- | -------------- | ---------- |
+| Desierto, Arena | x1        | x1/2           | x1/2       |
+| Bosque          | x1        | x1             | x1/2       |
+| Colina          | x1        | x3/4           | x1/2       |
+| Jungla          | x1        | x3/4           | x1/4       |
+| Páramo          | x1        | x1             | x3/4       |
+| Montaña         | x3/4      | x3/4           | x1/2       |
+| Planicie        | x1        | x1             | x3/4       |
+| Pantano         | x1        | x3/4           | x1/2       |
+| Tundra, Hielo   | x1        | x3/4           | x3/4       |
+
+Para ver que tan rápido viajan en un día/guardia determinado, multiplica el modificador de terreno por tu ritmo (valores ajustados abajo).
+
+
+|     |     |
+| --- | --- | ---| --- | ---|
+|     |     |
+
+
