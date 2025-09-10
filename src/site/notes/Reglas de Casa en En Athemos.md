@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T11:00:54.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T11:16:26.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -43,7 +43,7 @@ Sin el equipo correspondiente (**saco de dormir y refugio**), se requiere **una 
 Si no descansas lo suficiente, tu **nivel de fatiga aumenta automáticamente**.
 
 #### Vigías ####
-Puedes mantenerte en guardia durante **1 hora** sin interrumpir tu descanso.  
+Puedes mantenerte en vigía durante **1 hora** sin interrumpir tu descanso.  
 Esto significa que descansar con vigías requiere:
 
 - **2 guardias** si hay **8 o más turnos**.
@@ -131,9 +131,21 @@ Viajar en **terrenos difíciles** probablemente **ralentice el viaje** de tu gru
 
 Para ver que tan rápido viajan en un día/guardia determinado, multiplica el modificador de terreno por tu ritmo (valores ajustados abajo).
 
+##### Tabla 2a - Ritmo Ajustado Por Guardia ######
+| Ritmo  | x1  | x3/4 | x1/2 | x1/4 |
+| ------ | --- | ---- | ---- | ---- |
+| Lento  | 6*  | 3    | 1.5  | 1.5  |
+| Medio  | 8*  | 4    | 2    | 2    |
+| Rapido | 10* | 5    | 2.5  | 2.5  |
+* *+2 si estan montandos en caballos rápidos*
 
-|     |     |
-| --- | --- | ---| --- | ---|
-|     |     |
+##### Tabla 2b - Ritmo Ajustado por Dia (3 Guardías) ######
+| Ritmo  | x1  | x3/4 | x1/2 | x1/4 |
+| ------ | --- | ---- | ---- | ---- |
+| Lento  | 18* | 13.5 | 9    | 4.5  |
+| Medio  | 24* | 18   | 12   | 6    |
+| Rapido | 30* | 22.5 | 15   | 7.5  |
 
+#### Encuentros Aleatorios ####
+Al final de cada guardia, tira un dado de riesgo
 
