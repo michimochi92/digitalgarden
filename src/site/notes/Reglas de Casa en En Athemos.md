@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T11:58:18.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T12:01:30.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -137,7 +137,7 @@ Para ver que tan rápido viajan en un día/guardia determinado, multiplica el mo
 | Lento  | 6*  | 3    | 1.5  | 1.5  |
 | Medio  | 8*  | 4    | 2    | 2    |
 | Rapido | 10* | 5    | 2.5  | 2.5  |
-* *+2 si están montados en caballos rápidos*
+\*+2 si están montados en caballos rápidos*
 
 ##### Tabla 2b - Ritmo Ajustado por Dia (3 Guardias) ######
 | Ritmo  | x1  | x3/4 | x1/2 | x1/4 |
@@ -147,5 +147,14 @@ Para ver que tan rápido viajan en un día/guardia determinado, multiplica el mo
 | Rapido | 30* | 22.5 | 15   | 7.5  |
 * *+6 si están montados en caballos rápidos*
 #### Encuentros Aleatorios ####
-Al final de cada guardia, tira un dado de riesgo para determinar que sucede! Si están viajando a un ritmo lento, hay 3:6 (dado) chances de que una amenaza sea evitada. Si están **explorando** a profundidad, el GM tirará dos veces considerando ignorar 
+Al final de cada guardia, tira un dado de riesgo para determinar que sucede! Si están viajando a un ritmo lento, hay 3:6 (dado) chances de que una amenaza sea evitada. Si están **explorando** a profundidad, el GM tirará dos veces considerando ignorar efectos como cambios climáticos debido a que no sería tan común en un corto periodo de tiempo. Si un resultado no tiene sentido (cambio de terreno mientras acampan), se ignora el resultado.
+
+| d6   |Resultados del dado de riesgo |
+| --- | --- | ---- | ---- | ---- |
+| 1   | Amenaza | 13.5 | 9    | 4.5  |
+| 2   | 24* | 18   | 12   | 6    |
+| 3   | 30* | 22.5 | 15   | 7.5  |
+| 4   |     |      |      |      |
+| 5   |     |      |      |      |
+| 6    |     |      |      |      |
 
