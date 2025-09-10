@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T12:01:30.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T12:01:46.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -145,7 +145,7 @@ Para ver que tan rápido viajan en un día/guardia determinado, multiplica el mo
 | Lento  | 18* | 13.5 | 9    | 4.5  |
 | Medio  | 24* | 18   | 12   | 6    |
 | Rapido | 30* | 22.5 | 15   | 7.5  |
-* *+6 si están montados en caballos rápidos*
+\* *+6 si están montados en caballos rápidos*
 #### Encuentros Aleatorios ####
 Al final de cada guardia, tira un dado de riesgo para determinar que sucede! Si están viajando a un ritmo lento, hay 3:6 (dado) chances de que una amenaza sea evitada. Si están **explorando** a profundidad, el GM tirará dos veces considerando ignorar efectos como cambios climáticos debido a que no sería tan común en un corto periodo de tiempo. Si un resultado no tiene sentido (cambio de terreno mientras acampan), se ignora el resultado.
 
