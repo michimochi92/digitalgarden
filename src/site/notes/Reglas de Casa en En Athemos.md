@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T12:08:38.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-10T12:11:22.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -147,14 +147,16 @@ Para ver que tan rápido viajan en un día/guardia determinado, multiplica el mo
 | Rapido | 30* | 22.5 | 15   | 7.5  |
 \* +6 si están montados en caballos rápidos
 #### Encuentros Aleatorios ####
-Al final de cada guardia, tira un dado de riesgo para determinar que sucede! Si están viajando a un ritmo lento, hay 3:6 (dado) chances de que una amenaza sea evitada. Si están **explorando** a profundidad, el GM tirará dos veces considerando ignorar efectos como cambios climáticos debido a que no sería tan común en un corto periodo de tiempo. Si un resultado no tiene sentido (cambio de terreno mientras acampan), se ignora el resultado.
+Al final de cada guardia, tira un dado de riesgo para determinar que sucede! Si están viajando a un ritmo lento, hay 50% (dado d6) chances de que una amenaza sea evitada. Si están **explorando** a profundidad, el GM tirará dos veces considerando ignorar efectos como cambios climáticos debido a que no sería tan común en un corto periodo de tiempo. Si un resultado no tiene sentido (cambio de terreno mientras acampan), se ignora el resultado.
 
-| d6  | Resultados del dado de riesgo | 
-| --- | ----------------------------- |  
-| 1   | Amenaza                       |  
-| 2   | Cambio de Clima               | 
-| 3   | Suministros defectuosos       | 
+| d6  | Resultados del dado de riesgo |
+| --- | ----------------------------- |
+| 1   | Amenaza                       |
+| 2   | Cambio de Clima               |
+| 3   | Suministros defectuosos       |
 | 4   | Cambio de Terreno             |
-| 5   | Encuentro Pasivo              |  
-| 6   | Descubrimiento                |   
+| 5   | Encuentro Pasivo              |
+| 6   | Descubrimiento                | 
 
+#### Clima #####
+El clima puede afectar el viaje, volviendolo más dificil! 
