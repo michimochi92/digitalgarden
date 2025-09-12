@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-12T13:43:28.000-06:00"}
+{"dg-publish":true,"permalink":"/reglas-de-casa-en-en-athemos/","created":"2025-09-09T13:29:34.380-06:00","updated":"2025-09-12T13:43:40.000-06:00"}
 ---
 
 ### Registro del Tiempo ###
@@ -247,6 +247,6 @@ Para la campaña, el manejo y organización del inventario será importante por 
 -Objetos del estilo Bag of Holding limitados a 2 por grupo y solamente hasta la segunda version.
 
 ### Hexploración ####
-Simplente observando las tablas, utilizaremos un grid hex de 6 millas, esto quiere decir, iremos mostrando el progreso cada que 6 millas de viaje hayan ocurrido. En caso de haber un excedente (8 millas de viaje) el grupo todavía no podrá viajar hacia el proximo hex, un jugador o el grupo deberá asistir con llevar la cuenta. El mapá representará el progreso que vayan teniendo durante su aventura.
+Simplemente observando las tablas, utilizaremos un grid hex de 6 millas, esto quiere decir, iremos mostrando el progreso cada que 6 millas de viaje hayan ocurrido. En caso de haber un excedente (8 millas de viaje) el grupo todavía no podrá viajar hacia el proximo hex, un jugador o el grupo deberá asistir con llevar la cuenta. El mapa representará el progreso que vayan teniendo durante su aventura.
 
 
