@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personajes/party/kil-grock/","created":"2025-08-28T20:59:11.790-06:00","updated":"2025-09-01T16:57:54.000-06:00"}
+{"dg-publish":true,"permalink":"/personajes/party/kil-grock/","created":"2025-08-28T20:59:11.790-06:00","updated":"2025-10-12T16:38:58.000-06:00"}
 ---
 
 
@@ -38,3 +38,81 @@ Con el paso de los años y la relativa paz que trajo la prosperidad imperial, la
 Kil’grock recibió uno de esos encargos: investigar los rumores de no-muertos que acechaban en las montañas de [[Krimtholm\|Krimtholm]], un poblado [[Especies y Culturas/Kumuldûn\|Kumuldûn]] enclavado en las alturas nubladas, dentro del propio dominio de [[Geografía y Politica/Morûldar\|Morûldar]].
 
 ## Conexiones ##
+
+
+
+# 📜 Jerarquía Militar del Ejército de Morûldar
+
+### 👑 **1. Vozthrak (La Voz del Coloso)**
+
+- **Máximo rango.** Son los generales-sacerdotes que interpretan los ecos de la estatua de Thrak-Morûl.
+    
+- Considerados intermediarios directos entre el Coloso y su pueblo.
+    
+- Sus órdenes son ley, pues se cree que provienen del propio Emperador petrificado.
+    
+
+---
+
+### 🛡️ **2. Thrakzûl (Señores de Guerra del Coloso)**
+
+- Comandantes de ejércitos enteros.
+    
+- Portan armaduras negras con incrustaciones de **Morûlith**, el mineral desconocido de la estatua.
+    
+- Se les considera los “brazos” del Coloso: fuerza y disciplina encarnada.
+    
+
+---
+
+### ⚔️ **3. Khazrûk (Campeones de Hierro)**
+
+- Guerreros de élite, duelistas y líderes de clanes.
+    
+- Cada Khazrûk debe derrotar a diez campeones enemigos en combate singular para ganar su título.
+    
+- Suelen llevar **espadas-estandartes**, que además de armas sirven como símbolos de su clan.
+    
+
+---
+
+### 🪓 **4. Grûmdar (Capitanes de Batalla)**
+
+- Encargados de dirigir compañías de 100 guerreros.
+    
+- Su autoridad está basada en la táctica y la ferocidad.
+    
+- Llevan tambores de guerra que marcan el ritmo de la batalla, sincronizando ataques con resonancia.
+    
+
+---
+
+### 🐺 **5. Urgthak (Jinetes de Guerra)**
+
+- Tropas montadas sobre lobos gigantes o bestias cavernarias.
+    
+- Funcionan como exploradores, flanqueadores y primera línea en emboscadas.
+    
+- Su aullido de guerra es considerado un eco del rugido del Coloso.
+    
+
+---
+
+### 🪓 **6. Dûrkaz (Soldados del Coloso)**
+
+- Los soldados rasos, columna vertebral del ejército.
+    
+- Portan armaduras de placas negras y luchan en formación cerrada, golpeando sus armas contra el metal al unísono.
+    
+- Aunque son el rango más bajo, se considera que cada Dûrkaz es un “diente en la mandíbula del Coloso”.
+    
+
+---
+
+### 🪨 **7. Thrûmnak (Escuderos de Piedra)**
+
+- Jóvenes orcos o extranjeros que buscan ganarse un lugar en Morûldar.
+    
+- Cargan los estandartes, mantienen las armas y aprenden el credo de la Dualidad.
+    
+- Son considerados los “eco-vivos” que aún no han hallado su voz en el canto de guerra.

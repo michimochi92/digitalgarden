@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geografia-y-politica/moruldar/","created":"2025-08-24T22:48:30.860-06:00","updated":"2025-08-24T22:55:58.000-06:00"}
+{"dg-publish":true,"permalink":"/geografia-y-politica/moruldar/","created":"2025-08-24T22:48:30.860-06:00","updated":"2025-10-12T16:32:32.000-06:00"}
 ---
 
 Morûldar es un pais en el continente de [[[Lorania\|[Lorania]]].
@@ -80,3 +80,5 @@ Morûldar es un pais en el continente de [[[Lorania\|[Lorania]]].
 - Los eruditos elfos y humanos creen que es un mineral **fuera del ciclo de Athemos**, un fragmento del **octavo plano** (el Vacío de la Segunda Lluvia).
     
 - Para los orcos, discutir su origen es blasfemia: lo único que importa es que **el Coloso sostiene el mundo**.
+
+### 
