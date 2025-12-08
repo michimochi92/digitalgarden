@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/geografia-y-politica/lumiere/","created":"2025-08-16T20:09:02.880-06:00","updated":"2025-08-25T14:55:50.000-06:00"}
+{"dg-publish":true,"permalink":"/geografia-y-politica/lumiere/","created":"2025-08-16T20:09:02.880-06:00","updated":"2025-12-08T15:31:02.000-06:00"}
 ---
 
-**[[Geografía y Politica/Lumière\|Lumière]]**, conocida también como la **[[Geografía y Politica/Lumière\|Ciudad de la Iluminación]]**, es una de las urbes más relevantes de la nación de [[Dämmerreich\|Dämmerreich]]. En su interior se alza la iglesia más grande dedicada a la [[z_Unsorted/Religión del Viajero\|Religión del Viajero]], un imponente templo construido a las faldas de la montaña [[Shar Blang\|Shar Blang]].
+**[[Geografía y Politica/Lumière\|Lumière]]**, conocida también como la **[[Geografía y Politica/Lumière\|Ciudad de la Iluminación]]**, es una de las urbes más relevantes de la nación de [[Geografía y Politica/Regiones/Dämmerreich/Dämmerreich\|Dämmerreich]]. En su interior se alza la iglesia más grande dedicada a la [[z_Unsorted/Religión del Viajero\|Religión del Viajero]], un imponente templo construido a las faldas de la montaña [[Shar Blang\|Shar Blang]].
 
 Con una población que supera los **200 000 habitantes**, Lumiere se ha consolidado como un centro neurálgico de comercio. Su economía se sostiene principalmente en el mercadeo y en su posición estratégica frente al océano, donde se ubica el [[Puerto de Levre\|Puerto de Levre]], considerado uno de los puertos más transitados y vitales de la nación.
 

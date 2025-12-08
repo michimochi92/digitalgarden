@@ -38,7 +38,7 @@ El ritual consiste en encontrar un león que acepte el desafío, el cual se divi
 
 ## ⚔️ **Estructura Social**
 
-### **[[Thrak’raun\|Thrak’raun]] — El Shaman del Eco**
+### **[[Personajes/NPCs/Thrak’raun\|Thrak’raun]] — El Shaman del Eco**
 
 El **líder chamán** de la manada —el único al que, por tradición, le está prohibido entablar un lazo con un **[[Moru’garin\|Moru’garin]]**— porta sobre sus hombros un elaborado mecanismo que sostiene, a modo de estante ritual, la **cabeza taxidermizada del último chamán** de la manada.  
 Este símbolo representa que el nuevo guía **carga sobre sus hombros la memoria, el espíritu y las vivencias de su predecesor**, manteniendo viva la sabiduría ancestral del linaje
