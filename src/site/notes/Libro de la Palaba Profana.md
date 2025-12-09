@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/libro-de-la-palaba-profana/","created":"2025-12-08T11:13:50.930-06:00","updated":"2025-12-08T20:23:06.000-06:00"}
+{"dg-publish":true,"permalink":"/libro-de-la-palaba-profana/","created":"2025-12-08T11:13:50.930-06:00","updated":"2025-12-08T20:46:34.000-06:00"}
 ---
 
 ![image-1.png](/img/user/image-1.png)
@@ -35,7 +35,32 @@ Lᛟ Ð⟒ cô⋏ f⟒.
 ρ⟟⟒ qᚢ⟒ qvᚨ⋏Ðᛟ ᚢ⋏ hᛟϐᛒᚨ c⟟⋏ρ⟒⋏Ð⟒ ᚢ⋏ᚨ jᚢϟ†⟟f⟟ç⟟ᚨꚱ⟨ᚨ⟩ pᚨ⟚⟨ᚨ⟩ p⟒c⟨ᚨ⟩ ϟ⟟⋏ ɼ⟟ᛘᛟ⟮ᚱ⟩Ð⟟ᛟ…  
 … êl ᛘᚢ⋏Ðᛟ ⟒⋏†⟒⟮ᚱ⟩⟟ϟ Ð⟒ϐ⟟ᚨ †êm⟒⟟⟚ lᛟ qvᚨ hᚨ⟮ᚱ⟩ᚨ qvᚨ⋏Ðᛟ ϲ⟟⟒ᚨ qvᚨ êl p⟒c⟨ᚨ⟩Ðᛟ êϟ v⟟⟲†ᚢÐ.
 #### Traducción
+ Yo no estuve presente en el momento exacto en que el Maestro decidió cruzar el umbral, pero he escuchado suficiente, he visto suficiente, como para comprender que aquella elección no fue un accidente… sino una revelación torcida.
 
+Claudric siempre hablaba de la vida como si fuese un hilo de oro que todos llevamos cosido bajo la piel. Mientras más sanaba a la gente, más comprendía aquel hilo, y mientras más lo comprendía, más temía perderlo.  
+Su único terror —el único que jamás confesó en público— era el de morir antes de servir a todos los que lo necesitaban.
+
+Lo vi quebrarse una noche, doblado sobre sí mismo, con las manos temblando como si cargara el peso de todas las plegarias que nunca lograría atender.  
+Ahí entendí que su bondad no era infinita: era una hoguera, hermosa y cálida, pero condenada a consumirse.
+
+Y entonces, sin anunciarlo, realizó su primer acto prohibido.
+
+Lo narró después, con la voz baja, sin mirar a nadie a los ojos:
+
+> “Tomé una fracción de vida, Alabaster… una migaja.  
+> No la notaron. No la extrañaron. Y gracias a eso viví un día más para sanar a otros.”
+
+Yo recuerdo quedarme inmóvil. No supe si debía aplaudir su ingenio o temer su lógica.  
+En aquel instante sentí que algo —algo que no tenía forma ni nombre aún— había cambiado en él.  
+Era como si una puerta se hubiera abierto detrás de sus palabras, una puerta que no conducía a la divinidad de la antigua diosa, sino a un corredor que se extendía hacia la nada.
+
+Ese fue su primer paso hacia la profanación.  
+No lo dio con ira, ni con ambición, ni siquiera con maldad.
+
+Lo dio con fe.  
+Y por eso mismo fue tan peligroso.
+
+Porque cuando un hombre piadoso encuentra una justificación para pecar sin remordimiento… el mundo entero debe temer lo que hará cuando crea que el pecado es virtud.
 
 ### Entrada Recuperada del Cuaderno de Piel Gris, pagina 28
 #### Traducción 
