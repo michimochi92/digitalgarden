@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/libro-de-la-palaba-profana/","created":"2025-12-08T11:13:50.930-06:00","updated":"2025-12-08T20:46:34.000-06:00"}
+{"dg-publish":true,"permalink":"/libro-de-la-palaba-profana/","created":"2025-12-08T11:13:50.930-06:00","updated":"2025-12-08T23:00:36.000-06:00"}
 ---
 
 ![image-1.png](/img/user/image-1.png)
@@ -91,7 +91,7 @@ Preservation
 
 
 
-%% Unholy Being. Cuando harmonizas con el Libro de la Palabra Profana, tomas 8d10 de daño psychico. Adicionalmente, ganas las siguientes propiedades mientras estes en harmonía con el libro.
+. Cuando harmonizas con el Libro de la Palabra Profana, tomas 8d10 de daño psychico. Adicionalmente, ganas las siguientes propiedades mientras estes en harmonía con el libro.
 - Tienes resistencia al daño necrotico de 5, esto aumenta a 10 en nivel 10 y 15 al nivel 14
 - Tu AC aumenta por 1, esto aumenta a 2 en nivel 10 y 3 al nivel 14.
 - Cuando golpeas a una creatura con un attack, haces 1d6 de daño adicionalmente
@@ -101,9 +101,9 @@ Preservation
 - Tienes desventaja en rolls de ataque, checks de abilidad, saving throws mientras estes a 30 pies del [[Libro de la Palaba Profana\|Libro de la Palaba Profana]]. 
 Harmonizando con el Libro. 
 
-Cualquier PC con la capacidad de Spellcasting puede harmonizar con el libro de la palabra profana al gastar 80 horas leyendo y estudiando sus contenidos.
+Cualquier PC con la capacidad de Spellcasting puede harmonizar con el libro de la palabra profana al gastar 50 horas leyendo y estudiando sus contenidos.
 Una vez harmonizado, debes elegir un modificador de atributos y aumentarlo por dos hasta un maximo de 24 (+7), reduce otro por dos a un minimo de 3 (-4). Posteriormente, puedes gastar 3 guardias activas (4 horas) para ir desifrando nuevas paginas del libro.
 
 Susurros Oscuros. Mientras estés en sintonía con el libro, puedes gastar 4 hora estudiando sus paginas del libro intentando memorizar uno de sus hechizos. Puedes memorizar una cantidad total de niveles de spell igual al nivel de tu personaje, por ejemplo un personaje nivel 5 puede memorizar una spell nivel 5 o una spell nivel 3 y una nivel 2.
 
-Puedes utilizar la accion Learn a spell para aprender los hechizos de este libro.
+Puedes utilizar la accion Learn a spell para aprender los hechizos de este libro. 
