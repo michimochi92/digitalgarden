@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/los-12-templarios/","created":"2026-01-16T12:38:09.090-06:00","updated":"2026-01-16T22:05:46.000-06:00"}
+{"dg-publish":true,"permalink":"/los-12-templarios/","created":"2026-01-16T12:38:09.090-06:00","updated":"2026-01-16T22:14:16.000-06:00"}
 ---
 
 ## [[Cael Roderan\|Cael Roderan]]
@@ -10,10 +10,10 @@
 -Lider del [[Consejo Arcano\|Consejo Arcano]]
 
 ## [[Thraka Mordida de Lava\|Thraka Mordida de Lava]] - Campeona del Duelo
-
+![image-25.png](/img/user/image-25.png)
 
 ## [[Bronk “Ojo de Obsidiana”\|Bronk “Ojo de Obsidiana”]] - Señor de la Caza
-
+![image-26.png](/img/user/image-26.png)
 Zhurmûg Velo de Humo — Sombra y Espionaje
 ![image-10.png](/img/user/image-10.png)
 
